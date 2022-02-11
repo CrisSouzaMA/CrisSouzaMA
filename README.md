@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Cris Souza 🇧🇷
-### Estudante de programação pela Trybe 🚀
+### Engenheira de produção e estudante de programação pela Trybe 🚀
 <div align="center" style="display: flex">
   <a href="https://github.com/CrisSouzaMA">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=CrisSouzaMA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
