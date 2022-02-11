@@ -2,8 +2,8 @@
 ### Estudante de programação pela Trybe 🚀
 <div align="center" style="display: flex">
   <a href="https://github.com/CrisSouzaMA">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CrisSouzaMA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisSouzaMA&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=CrisSouzaMA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisSouzaMA&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div><br>
   <img align="center" alt="Cris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
