@@ -15,6 +15,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/> 
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="30"/> 
+  <img src="https://miro.medium.com/max/1400/1*l18jWwrZxiz7m34QgQ97Kg.png" alt="hooks" width="40" height="30"/>
   
 </div>
   
