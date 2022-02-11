@@ -15,7 +15,6 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/> 
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="30"/> 
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3DAlDuncanson.react-hooks-snippets&psig=AOvVaw3KF78FWnheqkAi7dczi6hG&ust=1644695229152000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODu6aq1-PUCFQAAAAAdAAAAABAD" alt="hooks" width="40" height="30"/>
   
 </div>
   
