@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Cris Souza 🇧🇷
-### Mãe do Pietro, programadora em desenvolvimento e engenheira de produção formada 🚀
+### Mãe do Pietro, programadora e engenheira de produção formada 🚀
 ### Meu propósito é abrir caminho para mais mulheres como eu e assim melhorar o mundo com o olhar analítico de uma engenheira, usando todas as diversas ferramentas da tecnologia e repleto do amor mais forte que existe, o amor de uma mãe 🧡
 #
 <div align="center" style="display: flex">
